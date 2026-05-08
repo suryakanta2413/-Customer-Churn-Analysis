@@ -21,3 +21,4 @@ Power BI → Dashboard creation & visualization
 💰 Revenue Impact: Significant loss from churned customers
 
 📸 Dashboard Preview
+https://github.com/suryakanta2413/-Customer-Churn-Analysis/blob/main/Customer%20Chrun%20Analysis.png
