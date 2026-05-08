@@ -1,4 +1,4 @@
-# -Customer-Churn-Analysis
+# Customer-Churn-Analysis
 This project focuses on analyzing customer churn behavior to identify key factors driving customer attrition and its impact on business revenue. The objective is to generate actionable insights that help improve customer retention and reduce revenue loss.
 
 🎯 Objective
@@ -19,3 +19,5 @@ Power BI → Dashboard creation & visualization
 🔒 Service Usage: Customers without Online Security & Tech Support are more likely to churn
 ⏳ Tenure Impact: New customers (low tenure) churn more frequently
 💰 Revenue Impact: Significant loss from churned customers
+
+📸 Dashboard Preview
